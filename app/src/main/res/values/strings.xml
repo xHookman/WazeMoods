@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WazeMod</string>
+    <string name="app_kill">Restart SystemUI (If needed)</string>
+</resources>
