@@ -15,7 +15,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Add a matrix rain in notifications panel !" />
+            android:value="Unlock Waze moods !" />
         <meta-data
             android:name="xposedminversion"
             android:value="82" />
